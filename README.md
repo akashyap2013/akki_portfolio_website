@@ -1,1 +1,1 @@
-# akki_portfolio_website
+# AKKI Portfolio Website
